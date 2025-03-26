@@ -1,0 +1,28 @@
+Define Project Scope and Features
+Clearly outline the features your vegetable sales app and website will have.
+
+✅ User Features:
+
+Browse vegetables with images, descriptions, and prices
+
+Search, filter, and sort products
+
+Add to cart and checkout with online payment
+
+User authentication (Login/Register)
+
+Order tracking with real-time updates
+
+✅ Admin Features:
+
+Add, edit, or remove vegetables
+
+Manage orders and delivery status
+
+View sales reports
+
+✅ Delivery Features:
+
+Assign delivery agents
+
+Track order delivery status
